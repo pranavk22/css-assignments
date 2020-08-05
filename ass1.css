@@ -1,0 +1,13 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    background-color:dodgerblue;
+    
+}
+div.container{
+    background-color:rgb(145, 165, 185)
+}
+.own{
+    background-color: rgb(202, 247, 247);
+}
